@@ -17,7 +17,7 @@ docker-compose up -d
 docker-compose exec kafka kafka-console-producer --bootstrap-server localhost:9092 --topic entrada
 ```
 
-4. Digite algumas palavras de diversos tamanhos neste terminal
+4. Digite algumas palavras neste terminal
  
 5. Abra um novo terminal e cria a fila de resultados
  
